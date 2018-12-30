@@ -1,2 +1,2 @@
 # ltime
-Time application primarily made for Biathlon
+Timing application primarily made for Biathlon
