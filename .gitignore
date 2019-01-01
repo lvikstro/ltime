@@ -12,3 +12,5 @@
 *.out
 
 backend/.env
+backend/*.key
+backend/*.pub
